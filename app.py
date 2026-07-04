@@ -20,7 +20,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏠 House Price Prediction")
+st.title("🏠 My first Project House Price Prediction")
 st.write("Predict house price using Linear Regression")
 
 # -----------------------------------
